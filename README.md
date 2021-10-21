@@ -9,6 +9,7 @@
   <img align="center" alt="CppIcon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="GitIcon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="CppIcon" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="right" alt="TeagoGif" height="160" src="https://cdn.discordapp.com/attachments/697952492004180052/900808456297119774/giftii.gif">
 </div>
 
   ##
