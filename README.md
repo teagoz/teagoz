@@ -1,4 +1,4 @@
-##Tiago Zavarizi
+##
 <div>
   <a href="https://github.com/teagoz">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=teagoz&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
